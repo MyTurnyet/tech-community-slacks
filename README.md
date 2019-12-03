@@ -140,6 +140,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
     *   [Angular Seattle](https://angular-seattle.slack.com)
     *   [Open Seattle](https://openseattle.slack.com)
     *   [Seattle Designers](https://seattledesigners.slack.com)
+    *   [Seattle Code Crafters](https://seattlecodecrafters.slack.com)
     *   [Seattle.rb](https://seattlerbslack.herokuapp.com/)
     *   [Seattle JS Hackers](https://seattlejshackers.slack.com)
     *   [Tech Seattle](https://techseattle.slack.com/messages/C045K4QLR/)
